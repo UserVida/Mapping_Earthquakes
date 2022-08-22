@@ -1,4 +1,4 @@
-# Overview of Project - Mission to Mars
+# Overview of Project
 
 ## Purpose 
 
